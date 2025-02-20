@@ -3,6 +3,7 @@ title: "Time series models"
 author: "Barry Quinn"
 footer: "Advanced Financial Data Analytics"
 css: mycssblend.css
+embed-resources: true
 logo: img/qbslogo.png
 execute: 
   echo: true
